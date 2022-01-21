@@ -1,5 +1,6 @@
 ### Hello World 👋
-My name is Patric 
+My name is Patric, I am currently studying Technology Management.
+I am passionate about technology in general.
 <br>
 
 
