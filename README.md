@@ -1,7 +1,10 @@
 ### Hello World 👋
 My name is Patric 
 <br>
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.>
+
+
+<h2> Skills </h2>
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
 Here are some ideas to get you started:
 
