@@ -7,7 +7,7 @@
 <br> 📘  I really enjoy reading... 
 <br> 🤵   I am currently studying Technology Management...
 <br> 😍  I am passionate about technology in general.
-<br>
+
 
 ### Skills 👨‍💻
 
